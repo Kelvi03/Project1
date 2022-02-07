@@ -1,0 +1,19 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.top {margin-left: 250px;}
+.mid {margin-left: 450px;}
+.hero-banner1{
+border: solid 2px red;
+backdrop-color:blueviolet;
+
+}
+
+.hero-banner1__text{
+
+}
+
+hero-banner_text {}
+
+
